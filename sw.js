@@ -1,7 +1,7 @@
 
 importScripts('serviceworker-cache-polyfill.js');
 
-var CACHE_NAME = 'simple-pwa-v2';
+var CACHE_NAME = 'simple-pwa-v0.0.1';
 
 // File want to cache
 var urlsToCache = [
